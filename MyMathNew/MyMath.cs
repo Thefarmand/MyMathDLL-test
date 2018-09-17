@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MyMathNew
 {
     /// <summary>
-    /// om dennnennnn klasser
+    /// basis funktioner for en MyMath-class
     /// </summary>
     public class MyMath
     {
