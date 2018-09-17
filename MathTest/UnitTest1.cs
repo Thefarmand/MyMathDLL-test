@@ -9,6 +9,7 @@ namespace MathTest
     [TestClass]
     public class MyMathUnitTest
     {
+        //laver et objekt af MyMath klassen, som bruges til test
         private MyMath m = new MyMath();
 
 
