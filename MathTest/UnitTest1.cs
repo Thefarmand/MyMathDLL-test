@@ -11,6 +11,10 @@ namespace MathTest
     {
         private MyMath m = new MyMath();
 
+
+        /// <summary>
+        /// simple add method. takes int parameters
+        /// </summary>
         [TestMethod]
         public void AddPLus()
         {
