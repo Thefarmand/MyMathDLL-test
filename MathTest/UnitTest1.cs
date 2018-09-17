@@ -9,6 +9,9 @@ namespace MathTest
     [TestClass]
     public class MyMathUnitTest
     {
+        /// <summary>
+        /// Tilføjet space
+        /// </summary>
         private MyMath m = new MyMath();
 
 
