@@ -12,12 +12,17 @@ namespace MathTest
         private MyMath m = new MyMath();
 
         [TestMethod]
+
         public void AddPLus()
         {
             Assert.IsTrue(m.Add(2,3).Equals(5));
         }
 
         [TestMethod]
+
+        /// <summary>
+        /// Test for negativt og positvt tal
+        /// </summary>
         public void AddPlusMinus()
         {
             Assert.IsTrue(m.Add(-2, 3).Equals(1));
