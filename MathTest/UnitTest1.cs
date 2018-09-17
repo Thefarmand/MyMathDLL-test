@@ -7,7 +7,7 @@ using MyMathNew;
 namespace MathTest
 {
     [TestClass]
-    public class UnitTest1
+    public class MyMathUnitTest
     {
         private MyMath m = new MyMath();
 
