@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace MyMathNew
 {
-
+    /// <summary>
+    /// om dennnennnn klasser
+    /// </summary>
     public class MyMath
     {
         public int Add(int a, int b)
